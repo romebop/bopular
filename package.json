@@ -1,0 +1,26 @@
+{
+  "name": "bopular",
+  "version": "0.0.1",
+  "description": "first module",
+  "main": "index.js",
+  "dependencies": {
+    "url-title": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romebop/bopular.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "“Saerom <“park.srome@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romebop/bopular/issues"
+  },
+  "homepage": "https://github.com/romebop/bopular#readme"
+}
