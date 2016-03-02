@@ -1,6 +1,6 @@
 {
   "name": "bopular",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "rome's first module",
   "main": "index.js",
   "dependencies": {
