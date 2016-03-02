@@ -19,3 +19,7 @@ A small library that prints "bop"
 ## Tests
 
   `npm test`
+
+[![Build Status](https://travis-ci.org/romebop/bopular.svg?branch=master)](https://travis-ci.org/romebop/bopular)
+
+[![Coverage Status](https://coveralls.io/repos/github/romebop/bopular/badge.svg?branch=master)](https://coveralls.io/github/romebop/bopular?branch=master)
