@@ -3,9 +3,6 @@
   "version": "0.0.3",
   "description": "rome's first module",
   "main": "index.js",
-  "dependencies": {
-    "url-title": "^0.0.1"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
