@@ -1,5 +1,6 @@
 Bopular
 =======
+
 A small library that prints "bop"
 
 ## Installation
