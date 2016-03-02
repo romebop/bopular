@@ -1,6 +1,6 @@
 {
   "name": "bopular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "first module",
   "main": "index.js",
   "dependencies": {
@@ -18,7 +18,8 @@
     "url": "git+https://github.com/romebop/bopular.git"
   },
   "keywords": [
-    "rome", "bop"
+    "rome",
+    "bop"
   ],
   "author": "“Saerom <“park.srome@gmail.com”>",
   "license": "MIT",
